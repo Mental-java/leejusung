@@ -33,3 +33,5 @@ FunctionSystem :
                     getCard()로 리턴된 내가 뽑은 카드의 합과 computer가 뽑은 카드의 합을 비교
                     둘 중 22에 더 가까운 합이 승리
                     승리를 축하하는 출력문이 나옴
+
+[whimsical]https://whimsical.com/project1-9W1Mk4GNhJ2RemtLJTT13q
